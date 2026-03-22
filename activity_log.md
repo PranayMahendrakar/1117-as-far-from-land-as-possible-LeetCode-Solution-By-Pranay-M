@@ -5,3 +5,4 @@
 - [2026-03-22T08:31:10Z] docs: improve inline documentation
 - [2026-03-22T15:28:16Z] perf: optimize loop for better performance
 - [2026-03-22T12:08:56Z] chore: remove deprecated API calls
+- [2026-03-22T13:25:32Z] test: add unit tests for core module
